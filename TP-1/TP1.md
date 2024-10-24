@@ -32,6 +32,8 @@
     C:\Users\eloua>arp -a
     Interface : 10.33.73.71 --- 0x3
 
+## II. Go further
+
 **☀️ Hosts ?**
 
     C:\Windows\System32\drivers\etc\
@@ -91,3 +93,7 @@
     C:\Users\eloua>curl ipconfig.me
     Moved Permanently. Redirecting to https://ifconfig.me/
     IP Address	195.7.117.146
+
+## III. Le requin
+
+**☀️ Capture ARP**
